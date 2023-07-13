@@ -1,20 +1,13 @@
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://user-images.githubusercontent.com/36594527/117921831-c3d32c80-b334-11eb-8bab-a423ac34272a.png))](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Alireza Mohammadi</h1>
 <h3 align="center">A passionate Android developer from Iran</h3>
 
-
-<img align="right" alt="coding" with="400" src="https://pixabay.com/get/gb0ea5ef288e3fbd965015390125cd30ff8905aaeb5277b78b46213a17f4bd7fbfa1e65154115b78565cf15e0c020a4317c8fab2e351455ecff31d65eb730340b_1280.jpg">
-
-
-
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alirezamohammadi-git&label=Profile%20views&color=0e75b6&style=flat" alt="alirezamohammadi-git" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alirezamohammadi-git" alt="alirezamohammadi-git" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Unit Testing in android**
 
