@@ -1,9 +1,9 @@
 
 
-![alt text]([http://url/to/img.png](https://user-images.githubusercontent.com/36594527/117921831-c3d32c80-b334-11eb-8bab-a423ac34272a.png))
+![alt text](https://github.com/AlirezaMohammadi-git/AlirezaMohammadi-git/blob/dev/git-banner.png)
 
 <h1 align="center">Hi 👋, I'm Alireza Mohammadi</h1>
-<h3 align="center">A passionate Android developer from Iran</h3>
+<h3 align="center">A passionate Android developer from Iran 😁</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alirezamohammadi-git&label=Profile%20views&color=0e75b6&style=flat" alt="alirezamohammadi-git" /> </p>
 
