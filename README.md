@@ -11,8 +11,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Unit Testing in android**
-
 - 💬 Ask me about **Kotlin KMM JetpackCompose**
 
 - 📫 How to reach me **aireza.m@icloud.com**
